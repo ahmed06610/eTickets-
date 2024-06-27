@@ -1,0 +1,96 @@
+﻿@using eTickets.Settings
+@model IEnumerable<Cinema>
+
+@{
+    ViewData["Title"] = "List Of Cinemas";
+}
+
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Logo</th>
+                    <th>Name</th>
+                    <th>Location</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="align-middle">
+                            <img class="rounded-circle" src="@($"{FileSettings.ImagesPath}/Cinemas/{item.LogoImage}")"
+                                 alt="@item.Name" style="max-width:150px" />
+                        </td>
+                        <td class="align-middle">@item.Name</td>
+                        <td class="align-middle"><a href="@item.Description">@item.Description</a></td>
+                        <td class="align-middle">
+                            <a class="btn btn-outline-primary rounded rounded-3 me-2" asp-action="Update" asp-route-id="@item.Id"> <i class="bi bi-pencil-square"></i></a>
+                            <a class="btn btn-danger rounded rounded-3 js-delete " data-id="@item.Id">
+                                <i class="bi bi-trash3"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+@await Html.PartialAsync("_CreateItem", "Cinemas")
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('.js-delete').on('click', function () {
+                var btn = $(this);
+
+                const swal = Swal.mixin({
+                    customClass: {
+                        confirmButton: 'btn btn-danger mx-2',
+                        cancelButton: 'btn btn-light'
+                    },
+                    buttonsStyling: false
+                });
+
+                swal.fire({
+                    title: 'Are you sure that you need to delete this Cinema?',
+                    text: "You won't be able to revert this!",
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonText: 'Yes, delete it!',
+                    cancelButtonText: 'No, cancel!',
+                    reverseButtons: true
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        $.ajax({
+                            url: `/Cinemas/Delete/${btn.data('id')}`,
+                            method: 'DELETE',
+                            success: function () {
+                                swal.fire(
+                                    'Deleted!',
+                                    'Cinema has been deleted.',
+                                    'success'
+                                );
+
+                                btn.parents('tr').fadeOut();
+                            },
+                            error: function () {
+                                swal.fire(
+                                    'Oooops...',
+                                    'Something went wrong.',
+                                    'error'
+                                );
+                            }
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+
+}

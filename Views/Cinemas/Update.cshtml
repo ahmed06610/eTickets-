@@ -1,0 +1,58 @@
+﻿@using eTickets.Settings
+@using eTickets.ViewModels
+@model Cinema
+
+@{
+    ViewData["Title"] = "Update Cinema";
+}
+
+<h5>
+    <i class="bi bi-plus-circle-dotted"></i>
+    Update Actor
+</h5>
+
+<form asp-controller="Cinemas" asp-action="Update" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Name" class="form-label mt-4"></label>
+                <input type="text" class="form-control" asp-for="Name" placeholder="Enter A Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="form-label mt-4"></label>
+                <input type="text" class="form-control" asp-for="Description" placeholder="Enter Description">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LogoImage" class="form-label mt-4"></label>
+                <input type="file" class="form-control" asp-for="LogoImage">
+                <data-rule-extension ="@FileSettings.AllowedExtensions.Replace(".", string.Empty)"
+                <data-msg-extension="Only @FileSettings.AllowedExtensions files are allowed">
+                <small class="form-text text-muted">Only @FileSettings.AllowedExtensions files are allowed with max size (@FileSettings.MaxFileSizeInMB)MB. </small>
+                <span asp-validation-for="LogoImage" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-light text-black mt-4">Update</button>
+        </div>
+        <div class="col-md-6 d-flex justify-content-center pt-4 ">
+            <img class="cover-preview " src="@($"{FileSettings.ImagesPath}/Cinemas/{Model.LogoImage}")" alt="Cover" />
+        </div>
+    </div>
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        $(document).ready(function () {
+            $('#LogoImage').on('change', function () {
+                $('.cover-preview').attr('src', window.URL.createObjectURL(this.files[0])).removeClass('d-none');
+            });
+        });
+    </script>
+}
+
+
+

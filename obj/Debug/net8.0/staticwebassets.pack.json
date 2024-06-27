@@ -1,0 +1,573 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eTickets.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eTickets.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\049446b4-757f-4b58-990a-305dbb918c85.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\049446b4-757f-4b58-990a-305dbb918c85.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\077b30c0-6997-4ec9-8b31-29179f13ccec.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\077b30c0-6997-4ec9-8b31-29179f13ccec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\11a016df-7f92-45d7-bfb2-cd8f2a84239d.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\11a016df-7f92-45d7-bfb2-cd8f2a84239d.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\1e2e3a7e-5a6d-4765-8c05-4b91a8134832.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\1e2e3a7e-5a6d-4765-8c05-4b91a8134832.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\1e6a3a83-f9eb-471d-a226-abb079326043.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\1e6a3a83-f9eb-471d-a226-abb079326043.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\233e81b4-cad6-484b-92d0-bedba4423b2f.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\233e81b4-cad6-484b-92d0-bedba4423b2f.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\2ebb8777-886e-46c3-97f6-2e9b11a6c624.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\2ebb8777-886e-46c3-97f6-2e9b11a6c624.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\35803e3a-3b2a-4587-abf8-af74443177b1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\35803e3a-3b2a-4587-abf8-af74443177b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\416bca4d-a789-418c-b093-2dcc3019beb5.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\416bca4d-a789-418c-b093-2dcc3019beb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\52caccf6-53a0-4d21-a826-1ff82f397685.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\52caccf6-53a0-4d21-a826-1ff82f397685.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\62267e70-359a-4b38-82ac-bfeb51a21068.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\62267e70-359a-4b38-82ac-bfeb51a21068.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\63479218-a9db-4305-b5c5-04e41e23ade0.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\63479218-a9db-4305-b5c5-04e41e23ade0.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\68ba5a4f-e20d-42ee-8ef4-1033acd43891.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\68ba5a4f-e20d-42ee-8ef4-1033acd43891.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\70e70986-a032-4c23-8ed3-44e3ca114dc2.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\70e70986-a032-4c23-8ed3-44e3ca114dc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\7a8e33e8-d0b3-4f32-8461-dd1bc16f35cd.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\7a8e33e8-d0b3-4f32-8461-dd1bc16f35cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\7ad84af1-aef5-49b7-8182-48e00d4792d2.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\7ad84af1-aef5-49b7-8182-48e00d4792d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\8abccaa5-5c44-428b-9d1f-d30f833fbe8b.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\8abccaa5-5c44-428b-9d1f-d30f833fbe8b.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\8e95c40d-295b-4df0-b6bd-e77d882eae43.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\8e95c40d-295b-4df0-b6bd-e77d882eae43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\9250b325-92fd-4900-bae4-5a06760ca31f.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\9250b325-92fd-4900-bae4-5a06760ca31f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\944a6535-4c30-41ff-bd83-ca773a9f5244.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\944a6535-4c30-41ff-bd83-ca773a9f5244.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\a2ba5bd1-c4f6-4668-a859-e13dd38ec537.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\a2ba5bd1-c4f6-4668-a859-e13dd38ec537.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\b5ee5a1a-82b9-4703-acf1-1940718c60b8.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\b5ee5a1a-82b9-4703-acf1-1940718c60b8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\b86ecacb-11d4-4c62-8ecd-7c53ecc888a6.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\b86ecacb-11d4-4c62-8ecd-7c53ecc888a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\baab4495-b1f8-497f-9942-580d38108ea6.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\baab4495-b1f8-497f-9942-580d38108ea6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Actors\\ce09bd2a-56bf-411e-bffa-124120527165.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Actors\\ce09bd2a-56bf-411e-bffa-124120527165.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Cinemas\\17c7de2d-850d-4c1a-b616-613c1de59621.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Cinemas\\17c7de2d-850d-4c1a-b616-613c1de59621.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Cinemas\\31d19879-3a2e-4d62-b0fe-2f493ecd3dc2.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Cinemas\\31d19879-3a2e-4d62-b0fe-2f493ecd3dc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Cinemas\\5bea65f4-e441-47ee-beed-c912b6f49b7f.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Cinemas\\5bea65f4-e441-47ee-beed-c912b6f49b7f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Cinemas\\98f8f583-8fdc-4d7e-8e3e-d499621494ba.jpeg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Cinemas\\98f8f583-8fdc-4d7e-8e3e-d499621494ba.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Cinemas\\b30155f0-e1db-491b-8efe-85d3b8dbec03.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Cinemas\\b30155f0-e1db-491b-8efe-85d3b8dbec03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Cinemas\\bc5ecea1-7fec-4ce1-928b-49fc4faa4bc7.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Cinemas\\bc5ecea1-7fec-4ce1-928b-49fc4faa4bc7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Cinemas\\cb9da652-ad70-4bf9-92f2-2947228ca956.jpeg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Cinemas\\cb9da652-ad70-4bf9-92f2-2947228ca956.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Cinemas\\dd580b4f-dc88-4cba-8b0e-479d453b4f6a.jpeg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Cinemas\\dd580b4f-dc88-4cba-8b0e-479d453b4f6a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Cinemas\\dd930355-1082-48c6-9d4e-fb9f7fab5f6f.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Cinemas\\dd930355-1082-48c6-9d4e-fb9f7fab5f6f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Cinemas\\fa07d4e9-58c6-4501-bf9b-48cf3dd2cf35.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Cinemas\\fa07d4e9-58c6-4501-bf9b-48cf3dd2cf35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\01893d9b-4661-4de4-a1df-b88df52bb8be.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\01893d9b-4661-4de4-a1df-b88df52bb8be.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\0485d2bd-e3bd-4c01-b2e6-2d0638410331.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\0485d2bd-e3bd-4c01-b2e6-2d0638410331.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\0ee2d499-3d6b-4b11-b880-6f78f8022220.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\0ee2d499-3d6b-4b11-b880-6f78f8022220.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\27b3bf9c-8796-416a-bd64-ba698dff8937.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\27b3bf9c-8796-416a-bd64-ba698dff8937.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\37e54842-fb38-4a3d-a3dd-17cbee7754dd.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\37e54842-fb38-4a3d-a3dd-17cbee7754dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\468ad1d8-57f9-4a45-b04d-1bcf7f4ca4ab.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\468ad1d8-57f9-4a45-b04d-1bcf7f4ca4ab.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\58c6d551-6e37-4c26-ae48-37cdfa75e44e.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\58c6d551-6e37-4c26-ae48-37cdfa75e44e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\63a751ef-099a-49a9-971d-9699cdcf71ea.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\63a751ef-099a-49a9-971d-9699cdcf71ea.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\67be9cf5-cde7-4944-a8c7-9311a87436f2.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\67be9cf5-cde7-4944-a8c7-9311a87436f2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\7a7dc061-fd3e-412b-b7a5-9659c7a3515b.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\7a7dc061-fd3e-412b-b7a5-9659c7a3515b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\83905a10-23fd-4579-bc40-a0e8ba0febfa.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\83905a10-23fd-4579-bc40-a0e8ba0febfa.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\89e26c29-6f60-4c70-bc6d-53dfe22d16b6.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\89e26c29-6f60-4c70-bc6d-53dfe22d16b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\92408756-3d8b-42fb-863d-70d6c5303e13.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\92408756-3d8b-42fb-863d-70d6c5303e13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\9ef9cc10-3380-4915-a721-a34d5f3486f4.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\9ef9cc10-3380-4915-a721-a34d5f3486f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\d26a575f-4737-4e6d-8f72-cff8780dee5b.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\d26a575f-4737-4e6d-8f72-cff8780dee5b.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\d3ae5db9-180a-4de7-8da4-7a7602917fdc.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\d3ae5db9-180a-4de7-8da4-7a7602917fdc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\db51a15b-fa51-4bbf-9d3d-27d2a42bea33.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\db51a15b-fa51-4bbf-9d3d-27d2a42bea33.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\e5667cdf-0bf9-4022-a604-27c51f7b9457.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\e5667cdf-0bf9-4022-a604-27c51f7b9457.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Movies\\f7c5277d-6d02-403a-af81-4247b79297da.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Movies\\f7c5277d-6d02-403a-af81-4247b79297da.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Producers\\09206e00-eb53-41f5-b404-7583ac4e564c.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Producers\\09206e00-eb53-41f5-b404-7583ac4e564c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Producers\\55e35332-9084-4c66-aa99-3a1353e895ba.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\Producers\\55e35332-9084-4c66-aa99-3a1353e895ba.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Producers\\56903d1e-83de-4116-bf80-da7e7f9160e9.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Producers\\56903d1e-83de-4116-bf80-da7e7f9160e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Producers\\930ed28a-4a30-4330-9ef2-19ce62b25f0f.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Producers\\930ed28a-4a30-4330-9ef2-19ce62b25f0f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Producers\\94da9317-8b10-425a-9faa-d3f4843e37b4.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Producers\\94da9317-8b10-425a-9faa-d3f4843e37b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Producers\\a3105654-2860-4abf-8c55-22b8dbb4a538.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Producers\\a3105654-2860-4abf-8c55-22b8dbb4a538.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Producers\\dea0969d-41a5-4d0f-b671-db44d32353e7.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Producers\\dea0969d-41a5-4d0f-b671-db44d32353e7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\Assets\\images\\Producers\\fe3156ed-bc7c-4117-921f-eafc73096d2a.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Producers\\fe3156ed-bc7c-4117-921f-eafc73096d2a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\css\\bootstrap.min (2).css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min (2).css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\css\\bootstrap.min (3).css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min (3).css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\sweetalert2\\sweetalert2.d.ts",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\sweetalert2\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\toastr.js\\toastr.css",
+      "PackagePath": "staticwebassets\\toastr.js\\toastr.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\toastr.js\\toastr.js.map",
+      "PackagePath": "staticwebassets\\toastr.js\\toastr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\toastr.js\\toastr.min.css",
+      "PackagePath": "staticwebassets\\toastr.js\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mostafa\\Desktop\\projects\\eTickets\\eTickets\\wwwroot\\toastr.js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\toastr.js\\toastr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.eTickets.props",
+      "PackagePath": "build\\eTickets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.eTickets.props",
+      "PackagePath": "buildMultiTargeting\\eTickets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.eTickets.props",
+      "PackagePath": "buildTransitive\\eTickets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eTickets.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

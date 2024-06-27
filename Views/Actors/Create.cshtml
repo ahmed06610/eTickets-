@@ -1,0 +1,58 @@
+﻿@using eTickets.Settings
+@using eTickets.ViewModels
+@model CreateProfileViewModel
+
+@{
+    ViewData["Title"] = "Add Actor";
+}
+
+<h5>
+    <i class="bi bi-plus-circle-dotted"></i>
+    Add a new Actor
+</h5>
+
+<form asp-controller="Actors" asp-action="Create" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="FullName" class="form-label mt-4"></label>
+                <input type="text" class="form-control" asp-for="FullName" placeholder="Enter A Name">
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bio" class="form-label mt-4"></label>
+                <input type="text" class="form-control" asp-for="Bio" placeholder="Enter Bio">
+                <span asp-validation-for="Bio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProfileImage" class="form-label mt-4"></label>
+                <input type="file" class="form-control" asp-for="ProfileImage">
+                <data-rule-extension="@FileSettings.AllowedExtensions.Replace(".", string.Empty)"
+                <data-msg-extension="Only @FileSettings.AllowedExtensions files are allowed">
+                <small class="form-text text-muted">Only @FileSettings.AllowedExtensions files are allowed with max size (@FileSettings.MaxFileSizeInMB)MB. </small>
+                <span asp-validation-for="ProfileImage" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-light text-black mt-4">Save</button>
+        </div>
+        <div class="col-md-6 d-flex justify-content-center pt-4 overflow-hidden">
+            <img class="cover-preview d-none  " alt="Cover" />
+        </div>
+    </div>    
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        $(document).ready(function () {
+            $('#ProfileImage').on('change', function () {
+                $('.cover-preview').attr('src', window.URL.createObjectURL(this.files[0])).removeClass('d-none');
+            });
+        });
+    </script>
+}
+
+
+

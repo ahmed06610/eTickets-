@@ -1,0 +1,93 @@
+﻿@using eTickets.Data.Enums
+@using eTickets.Settings
+@using eTickets.ViewModels
+@model CreateMovieViewModel
+
+@{
+    ViewData["Title"] = "Add Movie";
+}
+
+<h5>
+    <i class="bi bi-plus-circle-dotted"></i>
+    Add a new Movie
+</h5>
+
+<form asp-controller="Movies" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group mt-4 ">
+                <label asp-for="Name" class="form-label mt-4"></label>
+                <input type="text" class="form-control" asp-for="Name" placeholder="Enter A Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+                <label asp-for="StartDate" class="form-label mt-4"></label>
+                <input type="date" class="form-control" asp-for="StartDate">
+                <span asp-validation-for="StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+                <label asp-for="EndDate" class="form-label mt-4"></label>
+                <input type="date" class="form-control" asp-for="EndDate">
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+                <label asp-for="Price" class="form-label mt-4"></label>
+                <input type="number" class="form-control" asp-for="Price">
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+                <label asp-for="MovieImage" class="form-label mt-4"></label>
+                <input type="file" class="form-control" asp-for="MovieImage">
+                <data-rule-extension ="@FileSettings.AllowedExtensions.Replace(".", string.Empty)"
+                <data-msg-extension="Only @FileSettings.AllowedExtensions files are allowed">
+                <small class="form-text text-muted">Only @FileSettings.AllowedExtensions files are allowed with max size (@FileSettings.MaxFileSizeInMB)MB. </small>
+                <span asp-validation-for="MovieImage" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+            <label asp-for="CinemaId" class="control-label"></label>
+            <select asp-for="CinemaId" class="form-control" asp-items="ViewBag.Cinemas"></select>
+            <span asp-validation-for="CinemaId" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+            <label asp-for="MovieCategory" class="control-label"></label>
+            <select asp-for="MovieCategory" class="form-control" asp-items="Html.GetEnumSelectList<MovieCategory>()"></select>
+            <span asp-validation-for="MovieCategory" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+            <label asp-for="ProducerId" class="control-label"></label>
+            <select asp-for="ProducerId" class="form-control" asp-items="ViewBag.Producers"></select>
+            <span asp-validation-for="ProducerId" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+            <label asp-for="ActorIds" class="control-label"></label>
+            <select asp-for="ActorIds" class="form-control" asp-items="ViewBag.Actors" multiple></select>
+            <span asp-validation-for="ActorIds" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <textarea asp-for="Description" class="form-control"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-light text-black mt-4">Save</button>
+        </div>
+        <div class="col-md-6 d-flex justify-content-center pt-4 overflow-hidden">
+            <img width="75%" height="50%" class="cover-preview d-none  " alt="Cover" />
+        </div>
+    </div>
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        $(document).ready(function () {
+            $('#MovieImage').on('change', function () {
+                $('.cover-preview').attr('src', window.URL.createObjectURL(this.files[0])).removeClass('d-none');
+            });
+        });
+    </script>
+}
